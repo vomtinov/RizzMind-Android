@@ -1,0 +1,2 @@
+# RizzMind-Android
+rizz
