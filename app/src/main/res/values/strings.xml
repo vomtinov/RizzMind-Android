@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RizzMind</string>
+    <string name="floating_bubble_notification_title">RizzMind Active</string>
+    <string name="floating_bubble_notification_text">Tap the bubble for smart suggestions</string>
+    <string name="permission_overlay_required">Overlay permission is required for the floating bubble</string>
+    <string name="suggestions_title">Smart Suggestions</string>
+    <string name="suggestions_footer">Tap any suggestion to copy it to your clipboard</string>
+    <string name="error_title">Oops! Something went wrong</string>
+    <string name="error_message">We couldn\'t generate suggestions right now. Please check your internet connection and API key settings.</string>
+    <string name="copied_toast">Copied: %1$s</string>
+    <string name="api_key_saved">API key saved</string>
+    <string name="service_started">Floating bubble started</string>
+    <string name="service_stopped">Floating bubble stopped</string>
+</resources>
