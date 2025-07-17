@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RizzMind</string>
+    <string name="permission_required_title">Permission Required</string>
+    <string name="permission_required_message">This app needs overlay permission to display the floating bubble.</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="start_service">Start Floating Bubble</string>
+    <string name="stop_service">Stop Floating Bubble</string>
+    <string name="service_running">Floating bubble is running</string>
+    <string name="service_stopped">Floating bubble stopped</string>
+    <string name="ocr_processing">Processing OCR...</string>
+    <string name="ocr_no_text">No text found</string>
+    <string name="screen_capture_permission_title">Screen Capture Permission</string>
+    <string name="screen_capture_permission_message">Allow RizzMind to capture your screen for OCR processing?</string>
+</resources>
